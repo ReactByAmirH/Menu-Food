@@ -1,0 +1,77 @@
+const menu= [
+    {
+      id: 1,
+      title: 'pancakes',
+      category: 'breakfast',
+      price: 16,
+      img: './images/pancake.jpeg',
+      desc: `This is one of the best and most delicious dishes, which consists of milk, pancake powder and eggs. `,
+    },
+    {
+      id: 2,
+      title: 'dinner double',
+      category: 'lunch',
+      price: 17 ,
+      img: './images/double.jpeg',
+      desc: `This sandwich is made of two pieces of pure meat weighing 200 grams with cheese and potatoes, which is very tasty and popular.`,
+    },
+    {
+      id: 3,
+      title: 'mix milkshake',
+      category: 'shakes',
+      price: 4,
+      img: './images/milkshake.jpg',
+      desc: `This milkshake consists of banana ice cream with cream and chocolate, which is delicious.`,
+    },
+    {
+      id: 4,
+      title: 'delight',
+      category: 'breakfast',
+      price: 20.99,
+      img: './images/eggs.jpg',
+      desc: `This special plate consists of ingredients such as eggs, beans, meat, sausage, mushrooms, toasted bread, and tomatoes, which is a choice full of calories. `,
+    },
+    {
+      id: 5,
+      title: 'egg & burger',
+      category: 'lunch',
+      price: 22.99,
+      img: './images/eggsburger.jpg',
+      desc: `This sandwich consists of 100 grams of pure meat, egg and lettuce, This is a special choice for customers.`,
+    },
+    {
+      id: 6,
+      title: ' dream drink',
+      category: 'shakes',
+      price: 17.99,
+      img: './images/Shakes.jpg',
+      desc: `This milkshake consists of milk and cream and strawberry ice cream and pistachio, This is very famous`,
+    },
+    {
+      id: 7,
+      title: 'bacon ',
+      category: 'breakfast',
+      price: 9.3 ,
+      img: './images/bacon.jpeg',
+      desc: `This sandwich consists of pure beef and cheese, lettuce and tomato, ،This is a good choice for many people. `,
+    },
+    {
+      id: 8,
+      title: 'american classic',
+      category: 'lunch',
+      price: 12.99,
+      img: './images/burger.jpeg',
+      desc: `This sandwich consists of 100 grams of pure meat with potatoes, tomatoes, lettuce and onions, ،That is an interesting combination. `,
+    },
+    {
+      id: 9,
+      title: 'delicious shake',
+      category: 'shakes',
+      price: 16.99,
+      img: './images/item-3.jpeg',
+      desc: `This dessert consists of ice cream, cream, dumplings and milk, that is very popular among young people.`,
+    },
+  ];
+  
+  export default menu;
+  
